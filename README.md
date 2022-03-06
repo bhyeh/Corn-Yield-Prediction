@@ -6,7 +6,7 @@ An **_extremely brief_** showcase of my ongoing work and early research results 
 ## Research Objective ##
 Within-field yield measurements obtained by yield monitor systems can offer powerful insight into improving allocation of crop inputs and farm resources. Specifically, knowledge of yield and its variability in field can provide precision insight for Nitrogen fertilization for the current and upcoming growing season; reducing the both financial and environmental costs associated with Nitrogen use. However, existing yield monitor systems are expensive, data collection is tedious requiring delicate calibration, and post-harvest data cleaning is a laborious effort. The objective of my research is to evaluate whether corn grain and silage yield can be feasibly estimated from high resolution unmanned aerial system (UAS) imagery in combination with various neural network architectures such as a Long Short Term Memory (LSTM) and Convolutional (CNN) network.
   
-## Data Set##
+## Data Set ##
 During the growing season of 2019, weekly color (RGB) and multispectral (RG-NIR) images of various fields were collected by a a Quantix™ hybrid drone over the span of approximately 14 weeks. In total, eight farms were captured (three grain, five silage; ~420 acres in total). In addition to the images obtained by the Quantix drone, easily accessible weather and terrain elevation data were further sourced in constructing the data set. 
 
 ## Preliminary Results ##
