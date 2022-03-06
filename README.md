@@ -18,4 +18,4 @@ Results from current model experimentation and development below.
 
 ![image](https://user-images.githubusercontent.com/89032804/156907835-c90ca06b-49a2-46c1-92c2-f3637f1e3c3d.png)
 
-**Noteable (and cool) Takeaways:**
+**Noteable Takeaways:**
