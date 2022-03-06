@@ -12,7 +12,7 @@ During the growing season of 2019, a Quantix™ hybrid drone and AeroVironment D
 
 ## Preliminary Results ##
 
-**Important Note on Train-Validate-Test Split:** Current development is being done to reproduce practical in-field use as closely as possible. As a result, the data set has been partitioned to appropiately reflect this. Specifically, the training set consists of **four** distinct fields (~310 acres) while an **entire** fifth field (~53 acres) is held out completely. This hold out field is partitioned once more into validation and testing. I find this crucially important to emphasis because similar research often misuses a _within field_ split.  
+**Important Note on Train-Validate-Test Split:** Current development is being done to replicate practical in-field use as closely as possible. As a result, the data set has been carefully partitioned to appropiately reflect this. Specifically, the training set consists of **four** distinct fields (~310 acres) while an **entire** fifth field (~53 acres) is held out completely from training. This hold out field is partitioned once more into validation and testing. I find this crucially important to emphasis because similar research often misuses a _within field_ split (ask me more about this!). 
 
 Results from current model experimentation and development below.
 
