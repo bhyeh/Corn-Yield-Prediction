@@ -18,4 +18,8 @@ Results from current model experimentation and development below.
 
 ![image](https://user-images.githubusercontent.com/89032804/156907835-c90ca06b-49a2-46c1-92c2-f3637f1e3c3d.png)
 
-**Noteable Takeaways:**
+**Striking Takeaways:**
+
+There are a few remarkable comparisons between the actual and predicted yield map. Specifically, we can observe that low yielding patches along the headlands are nicely captured by the model.  
+
+![image](https://user-images.githubusercontent.com/89032804/156909536-d822b26f-545f-498f-9d22-5944a7f020fc.png)
