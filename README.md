@@ -1,7 +1,7 @@
 # Cornell-Corn-Yield-Prediction
 
-## Repository Description ##
-An **_extremely brief_** showcase of my ongoing research and work @ Cornell's Nutrient Management Spear Program (NMSP) and their Digital Agriculture initiative. If you are interested in more details or obtaining a preprint, please reach out to me @ **by253@cornell.edu**! 
+## Page Description ##
+An **_extremely brief_** and informal showcase of my ongoing work and early research results @ Cornell's Nutrient Management Spear Program (NMSP) and their Digital Agriculture initiative. If you are interested in more fine details or obtaining a preprint, please reach out to me @ **by253@cornell.edu**! 
 
 ## Research Objective ##
 Within-field yield measurements obtained by yield monitor systems can offer powerful insight into improving allocation of crop inputs and farm resources. However, existing yield monitor systems are expensive, data collection is tedious requiring delicate calibration, and post-harvest data cleaning is a laborious effort as well. The objective of my research is to evaluate whether corn grain and silage yield can be efficiently estimated from high resolution unmanned aerial system (UAS) imagery in combination with various neural network architectures. 
@@ -18,8 +18,10 @@ Results from current model experimentation and development below.
 
 ![image](https://user-images.githubusercontent.com/89032804/156907835-c90ca06b-49a2-46c1-92c2-f3637f1e3c3d.png)
 
-**Striking Takeaways:**
+### Striking Takeaways ###
 
-There are a few remarkable comparisons between the actual and predicted yield map. Specifically, we can observe that low yielding patches along the headlands are nicely captured by the model.  
+There are a few remarkable comparisons between the actual and predicted yield map. We can observe that low yielding patches observed in the headlands are nicely captured by the model. Further, quite interesting is the distinct 'dog-like' patch in the upper right corner of the field and the 'tail' pattern that is also expressed within the predicted map. These early results show promise
 
 ![image](https://user-images.githubusercontent.com/89032804/156909536-d822b26f-545f-498f-9d22-5944a7f020fc.png)
+
+An interesting diagnosis from viewing the two side-by-side plots reveals that the current model struggles to make _higher_ yield estimates (most evident in field). This remains a current challenge to diagnosis and address! 
