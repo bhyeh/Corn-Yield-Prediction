@@ -3,7 +3,7 @@
 ## Page Description 
 An **_extremely brief_** showcase of my ongoing work and early research results @ Cornell's Nutrient Management Spear Program (NMSP) and their Digital Agriculture initiative. If you are interested in more details or obtaining a preprint, please reach out to me @ **by253@cornell.edu**! 
 
-[Click here to jump to results](###-visual-results)
+[Click here to jump to results](#visual-results)
 
 ## Research Objective 
 Within-field yield measurements obtained by yield monitor systems offer powerful insight to improving allocation of crop inputs and farm resources. Specifically, access to yield and its variability can aid in precisely addressing Nitrogen needs throughout a field, reducing both the financial and environmental costs associated with excess Nitrogen use. However, existing yield monitor systems can be expensive, data collection is tedious requiring delicate calibration, and post-harvest data cleaning is a laborious effort. The objective of my research is to evaluate whether corn grain and silage yield can be feasibly estimated from high resolution unmanned aerial system (UAS) imagery in combination with various neural network architectures such as Long Short Term Memory (LSTM) and Convolutional (CNN) networks.
