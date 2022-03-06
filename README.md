@@ -29,4 +29,4 @@ There are a few remarkable resemblances between the actual and predicted yield m
 
 ![image](https://user-images.githubusercontent.com/89032804/156932821-575b72df-207c-4906-a8ac-e45ec07b0fe9.png)
 
-Overall, these early results show exciting promise in becoming a practical solution for precision Nitrogen management. For instance, a farmer could reasonably accumulate weekly photos of their fields during harvest by a drone, generate a prediction map (by NMSP), and then make immediate decisions for applying Nitrogen _before_ their harvest and optimize their overall yield. 
+Overall, these early results show exciting promise in becoming a practical solution for precision Nitrogen management. More specifically, a farmer could reasonably accumulate weekly photos of their fields during harvest by a drone, generate a prediction map (by NMSP), and then make immediate decisions for applying Nitrogen _before_ their harvest and optimize the overall yield of the field. 
