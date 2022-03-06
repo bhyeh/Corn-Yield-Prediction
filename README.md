@@ -25,6 +25,8 @@ Results from current model experimentation and development below.
 
 ### Striking Takeaways 
 
-There are a few remarkable resemblances between the actual and predicted yield map, some of which I have highlighted below. Noteable is that low yielding patches present in the headlands are nicely captured by the network. Further, quite interesting is the distinct 'dog-like' patch of low yield in the upper right corner of the field and the 'tail' pattern that is also expressed in the predicted map. These early results overall show exciting promise to becoming an actionable solution for precision Nitrogen management. 
+There are a few remarkable resemblances between the actual and predicted yield map, some of which I have highlighted below. Noteable is that low yielding patches present in the headlands are nicely captured by the network. Further, quite interesting is the distinct 'dog-like' patch of low yield in the upper right corner of the field and the 'tail' pattern that is also expressed in the predicted map. 
 
 ![image](https://user-images.githubusercontent.com/89032804/156932821-575b72df-207c-4906-a8ac-e45ec07b0fe9.png)
+
+Overall, these early results show exciting promise in becoming a practical solution for precision Nitrogen management. For instance, a farmer could reasonably accumulate weekly photos of their fields during harvest by a drone, generate a prediction map (by NMSP), and then make immediate decisions for applying Nitrogen _before_ their harvest and optimize their overall yield. 
