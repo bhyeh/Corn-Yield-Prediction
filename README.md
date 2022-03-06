@@ -23,4 +23,4 @@ Results from current model experimentation and development below.
 
 There are a few remarkable comparisons between the actual and predicted yield map, highlighted below. We can observe that low yielding patches observed in the headlands are nicely captured by the network. Further, quite interesting is the distinct 'dog-like' patch in the upper right corner of the field and the 'tail' pattern that is also expressed within the predicted map. These early results show exciting promise and serve as a benchmark to hopefully improve upon with further development. 
 
-![image](https://user-images.githubusercontent.com/89032804/156909536-d822b26f-545f-498f-9d22-5944a7f020fc.png)
+![image](https://user-images.githubusercontent.com/89032804/156932821-575b72df-207c-4906-a8ac-e45ec07b0fe9.png)
