@@ -1,4 +1,4 @@
-# Neural Network Approaches to Corn Grain and Silage Yield Estimation from High Resolution UAS Imagery
+# Corn Yield Estimation from High Resolution UAS Imagery
 
 ## Page Description 
 An **_extremely brief_** showcase of my ongoing work and early research results @ Cornell's Nutrient Management Spear Program (NMSP) and their Digital Agriculture initiative. If you are interested in more details or obtaining a preprint, please reach out to me @ **by253@cornell.edu**! 
