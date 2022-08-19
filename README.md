@@ -17,7 +17,7 @@ During the growing season of 2019, weekly color (RGB) and multispectral (RG-NIR)
 
 With modeling, the goal is to map the temporal relationship between weekly drone images as well as static regional features (digital elevation and landform classes) to the end of harvest yield. Below are the results of a LSTM based network. 
 
-**Important Note on Train-Validate-Test Split:** Current development is being done to replicate practical in-field use as closely as possible, where in production a farmer would upload a sequence of drone obtained images _during_ the growing season and recieve a generated prediction map _before_ harvest. As a result, the entire data set has been carefully partitioned to appropiately reflect this intent. Specifically, the training set consists of **four** distinct fields (~310 acres) while an **entire** fifth field (~53 acres) is held out completely from training for validation and testing. I find this crucially important to emphasis because similar research often misuses a _within field_ split (e.g., 80% from _each_ available field to train and remaining 20% to test; ask me more about this!). 
+**Training and Validation:** The entire data set has been carefully partitioned to reflect practical case use. Specifically, the training set consists of **six** distinct farm fields (~355 acres) while an **entire** fifth and sixth field (~65 acres) are held out completely from training for validation and testing. 
 
 ### Visual Results
 
