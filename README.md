@@ -23,10 +23,4 @@ With modeling, the goal is to map the temporal relationship between weekly drone
 
 Results from current model experimentation and development below.
 
-![image](https://user-images.githubusercontent.com/89032804/156907835-c90ca06b-49a2-46c1-92c2-f3637f1e3c3d.png)
-
-### Striking Takeaways 
-
-There are a few remarkable resemblances between the actual and predicted yield map, some of which I have highlighted below. Noteable is that low yielding patches present in the headlands are nicely captured by the network. Further, the distinct 'dog-like' patch of low yield in the upper right corner of the field and 'tail' pattern are expressed in the predicted map as well! 
-
-![image](https://user-images.githubusercontent.com/89032804/156932821-575b72df-207c-4906-a8ac-e45ec07b0fe9.png)
+![image](https://user-images.githubusercontent.com/89032804/186429316-ee9db794-379f-44bd-a923-692141a269ae.png)
